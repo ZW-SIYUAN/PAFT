@@ -1,0 +1,8 @@
+The partitioned the data sets: 80% training sets and 20% test sets.
+
+  Beijing
+  US-locations
+  California
+  Adult
+  Seattle
+  Travel
