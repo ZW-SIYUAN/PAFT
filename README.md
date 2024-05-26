@@ -15,7 +15,7 @@ Any column dependency algorithm can be fit here. In the paper, the "A Hybrid App
 
 HyFD ```https://github.com/codocedo/hyfd```
 
-Run ```python3 hyfd/hyfd.py datasets/us_location.csv```
+Run ```python3 hyfd/hyfd.py datasets/*.csv```
 
 
 ## PAFT 
