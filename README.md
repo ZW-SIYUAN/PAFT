@@ -11,7 +11,7 @@ TabSyn ```https://github.com/amazon-science/tabsyn```
 GReaT ```https://github.com/kathrinse/be_great```
 
 ## FD Discovery
-Any column dependency algorithm can be fit here. In the paper, the "A Hybrid Approach to Functional Dependency Discovery" is employed. However, any column dependency discovery, even customized, works.
+In the paper, the "A Hybrid Approach to Functional Dependency Discovery" is employed. However, any column dependency discovery, even customized, can be fit here.
 
 HyFD ```https://github.com/codocedo/hyfd```
 
