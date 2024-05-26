@@ -1,5 +1,0 @@
-Step 1. Preparation:
-- datasets
-- Functional Dependency Discovery report. For instance, HyFD tool is at https://github.com/codocedo/hyfd
-
-Step 2. Paft FD Distilation and Optimization

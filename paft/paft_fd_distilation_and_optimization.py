@@ -31,11 +31,12 @@ def parse_dictionary_hyfd(df_name):
     return fd_results
 
 # Using HyFD
-# python3 hyfd/hyfd.py datasets/geo_bird_latlevel.csv
+# python3 hyfd/hyfd.py datasets/us_location.csv
 
 
 if __name__ == "__main__":
     fd_results_pyro = {}
+    # load FD results from HyFD
     files = os.listdir("./fd_finder/datasets")
     
     sorted_order = {}
@@ -85,8 +86,6 @@ if __name__ == "__main__":
             print(sorted_nodes_full)
             sorted_order[name] = ','.join(sorted_nodes_just_list)
 
-        
-    # save the sorted order to a file
     with open('feature_order_permutation.txt', 'w') as file:
         file.write(str(sorted_order))
 
