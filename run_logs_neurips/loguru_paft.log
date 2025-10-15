@@ -1,0 +1,6 @@
+2025-10-15 14:32:40.415 | INFO     | __main__:<module>:88 - todo: ['./data/train/travel.csv']
+2025-10-15 14:32:40.415 | INFO     | __main__:<module>:93 - running ./data/train/travel.csv
+2025-10-15 14:32:40.420 | INFO     | __main__:<module>:111 - reordering to Age,FrequentFlyer,AnnualIncomeClass,ServicesOpted,AccountSyncedToSocialMedia,BookedHotelOrNot,Target
+2025-10-15 14:38:12.989 | INFO     | __main__:<module>:88 - todo: ['./data/train/travel.csv']
+2025-10-15 14:38:12.990 | INFO     | __main__:<module>:93 - running ./data/train/travel.csv
+2025-10-15 14:38:12.992 | INFO     | __main__:<module>:111 - reordering to Age,FrequentFlyer,AnnualIncomeClass,ServicesOpted,AccountSyncedToSocialMedia,BookedHotelOrNot,Target

@@ -27,8 +27,8 @@ class Stats(object):
         with open(STAT_DIRECTORY+STAT_FILE, 'a') as fout:
             fout.write('{}\n'.format('\t'.join(results)))
 
-OUTPUT_DIRECTORY = './json/'
-OUTPUT_FNAME = '{}-{}.json'
+OUTPUT_DIRECTORY = '../fd_finder/json/'
+OUTPUT_FNAME = '{}.json'
 
 class Output(object):
     def __init__(self, logger, db_path):
