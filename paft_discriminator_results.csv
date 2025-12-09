@@ -1,0 +1,7 @@
+Dataset,Discriminator Accuracy
+adult,0.6775752554542944
+travel,0.5093457943925234
+us_location,0.5555555555555556
+bejing,0.5789211287266925
+california_housing,0.6177700703866164
+seattle_housing,0.5870646766169154

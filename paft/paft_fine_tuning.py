@@ -64,11 +64,11 @@ if __name__ == "__main__":
     logger.add(f"{log_folder}/loguru_{args.model}.log")
 
     task_list = [
-        './data/train/travel.csv',
-        './data/train/bejing.csv',
-        './data/train/us_location.csv',
-        './data/train/california_housing.csv',
-        './data/train/adult.csv',
+        #'./data/train/travel.csv',
+        #'./data/train/bejing.csv',
+        #'./data/train/us_location.csv',
+        #'./data/train/california_housing.csv',
+        #'./data/train/adult.csv',
         './data/train/seattle_housing.csv',
     ]
     with open('feature_order_permutation.txt', 'r') as f:
@@ -110,7 +110,9 @@ if __name__ == "__main__":
                     args.order = ','.join(args.order)
                 logger.info(f"reordering to {args.order}")
                 print(f"reordering to {args.order}")
-                data = data[args.order.split(',')]
+                # 修改后:
+                cols = [c for c in args.order.split(',') if c.strip() != '']    # remove empty strings
+                data = data[cols]
 
             # drop rows with NaN
             data = data.dropna()

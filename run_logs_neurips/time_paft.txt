@@ -1,0 +1,6 @@
+paft,travel.csv,0,78, 2, Age,FrequentFlyer,AnnualIncomeClass,ServicesOpted,AccountSyncedToSocialMedia,BookedHotelOrNot,Target
+paft,bejing.csv,0,4204, 109, No,PRES,month,hour,DEWP,pm2.5,Iws,TEMP,year,Ir,day,Is,cbwd
+paft,us_location.csv,0,867, 18, lon,bird,state_code,lat,lat_zone
+paft,california_housing.csv,0,2234, 63, total_bedrooms,median_house_value,ocean_proximity,population,housing_median_age,households,total_rooms,median_income,longitude,latitude
+paft,adult.csv,0,4205, 133, native-country,hours-per-week,education,income,capital-gain,marital-status,sex,age,workclass,fnlwgt,education-num,race,capital-loss,relationship,occupation
+paft,seattle_housing.csv,0,123, 3, price,size_units,lot_size_units,,beds,baths,size,lot_size,zip_code

@@ -1,0 +1,30 @@
+2025-12-09 00:36:35.441 | INFO     | __main__:<module>:88 - todo: ['./data/train/travel.csv']
+2025-12-09 00:36:35.441 | INFO     | __main__:<module>:93 - running ./data/train/travel.csv
+2025-12-09 00:36:35.445 | INFO     | __main__:<module>:111 - reordering to Age,FrequentFlyer,AnnualIncomeClass,ServicesOpted,AccountSyncedToSocialMedia,BookedHotelOrNot,Target
+2025-12-09 00:37:22.235 | INFO     | __main__:<module>:88 - todo: ['./data/train/travel.csv']
+2025-12-09 00:37:22.236 | INFO     | __main__:<module>:93 - running ./data/train/travel.csv
+2025-12-09 00:37:22.239 | INFO     | __main__:<module>:111 - reordering to Age,FrequentFlyer,AnnualIncomeClass,ServicesOpted,AccountSyncedToSocialMedia,BookedHotelOrNot,Target
+2025-12-09 00:38:40.971 | INFO     | __main__:<module>:121 - running 0th experiment
+2025-12-09 00:38:43.220 | INFO     | __main__:<module>:88 - todo: ['./data/train/bejing.csv']
+2025-12-09 00:38:43.220 | INFO     | __main__:<module>:93 - running ./data/train/bejing.csv
+2025-12-09 00:38:43.238 | INFO     | __main__:<module>:111 - reordering to No,PRES,month,hour,DEWP,pm2.5,Iws,TEMP,year,Ir,day,Is,cbwd
+2025-12-09 01:48:48.095 | INFO     | __main__:<module>:121 - running 0th experiment
+2025-12-09 01:50:38.009 | INFO     | __main__:<module>:88 - todo: ['./data/train/us_location.csv']
+2025-12-09 01:50:38.009 | INFO     | __main__:<module>:93 - running ./data/train/us_location.csv
+2025-12-09 01:50:38.017 | INFO     | __main__:<module>:111 - reordering to lon,bird,state_code,lat,lat_zone
+2025-12-09 02:05:05.332 | INFO     | __main__:<module>:121 - running 0th experiment
+2025-12-09 02:05:23.744 | INFO     | __main__:<module>:88 - todo: ['./data/train/california_housing.csv']
+2025-12-09 02:05:23.744 | INFO     | __main__:<module>:93 - running ./data/train/california_housing.csv
+2025-12-09 02:05:23.754 | INFO     | __main__:<module>:111 - reordering to total_bedrooms,median_house_value,ocean_proximity,population,housing_median_age,households,total_rooms,median_income,longitude,latitude
+2025-12-09 02:42:38.301 | INFO     | __main__:<module>:121 - running 0th experiment
+2025-12-09 02:43:41.726 | INFO     | __main__:<module>:88 - todo: ['./data/train/adult.csv']
+2025-12-09 02:43:41.726 | INFO     | __main__:<module>:93 - running ./data/train/adult.csv
+2025-12-09 02:43:41.748 | INFO     | __main__:<module>:111 - reordering to native-country,hours-per-week,education,income,capital-gain,marital-status,sex,age,workclass,fnlwgt,education-num,race,capital-loss,relationship,occupation
+2025-12-09 03:53:46.794 | INFO     | __main__:<module>:121 - running 0th experiment
+2025-12-09 03:56:00.663 | INFO     | __main__:<module>:88 - todo: ['./data/train/seattle_housing.csv']
+2025-12-09 03:56:00.664 | INFO     | __main__:<module>:93 - running ./data/train/seattle_housing.csv
+2025-12-09 03:56:00.666 | INFO     | __main__:<module>:111 - reordering to price,size_units,lot_size_units,,beds,baths,size,lot_size,zip_code
+2025-12-09 10:48:23.259 | INFO     | __main__:<module>:88 - todo: ['./data/train/seattle_housing.csv']
+2025-12-09 10:48:23.259 | INFO     | __main__:<module>:93 - running ./data/train/seattle_housing.csv
+2025-12-09 10:48:23.262 | INFO     | __main__:<module>:111 - reordering to price,size_units,lot_size_units,,beds,baths,size,lot_size,zip_code
+2025-12-09 10:50:27.253 | INFO     | __main__:<module>:123 - running 0th experiment

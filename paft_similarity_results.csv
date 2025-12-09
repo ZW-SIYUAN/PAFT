@@ -1,0 +1,13 @@
+Dataset,Metric,Score
+adult,Correlation,0.9785464740809618
+adult,ColumnDensity,0.6425201995155074
+travel,Correlation,0.9790768394757617
+travel,ColumnDensity,0.9724549416486042
+us_location,Correlation,0.9175455821157119
+us_location,ColumnDensity,0.6659246644357663
+bejing,Correlation,0.9780910980230969
+bejing,ColumnDensity,0.9997523518136103
+california_housing,Correlation,0.9396760749553452
+california_housing,ColumnDensity,0.9999878925470395
+seattle_housing,Correlation,0.9553059941011488
+seattle_housing,ColumnDensity,0.9458497969765516
